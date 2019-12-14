@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="115854" started-at="2019-12-14T17:06:04 IST" finished-at="2019-12-14T17:08:00 IST">
+  <suite name="Suite" duration-ms="119578" started-at="2019-12-14T18:54:37 IST" finished-at="2019-12-14T18:56:37 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="115854" started-at="2019-12-14T17:06:04 IST" finished-at="2019-12-14T17:08:00 IST">
+    <test name="Test" duration-ms="119578" started-at="2019-12-14T18:54:37 IST" finished-at="2019-12-14T18:56:37 IST">
       <class name="org.amazon.testcase.TC_01">
-        <test-method status="PASS" signature="openAmazon()[pri:0, instance:org.amazon.testcase.TC_01@694e1548]" name="openAmazon" is-config="true" duration-ms="85197" started-at="2019-12-14T17:06:04 IST" finished-at="2019-12-14T17:07:29 IST">
+        <test-method status="PASS" signature="openAmazon()[pri:0, instance:org.amazon.testcase.TC_01@694e1548]" name="openAmazon" is-config="true" duration-ms="60068" started-at="2019-12-14T18:54:37 IST" finished-at="2019-12-14T18:55:37 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openAmazon -->
-        <test-method status="PASS" signature="checkError()[pri:0, instance:org.amazon.testcase.TC_01@694e1548]" name="checkError" duration-ms="29696" started-at="2019-12-14T17:07:29 IST" finished-at="2019-12-14T17:07:59 IST">
+        <test-method status="PASS" signature="checkError()[pri:0, instance:org.amazon.testcase.TC_01@694e1548]" name="checkError" duration-ms="57665" started-at="2019-12-14T18:55:37 IST" finished-at="2019-12-14T18:56:35 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkError -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:org.amazon.testcase.TC_01@694e1548]" name="closeBrowser" is-config="true" duration-ms="787" started-at="2019-12-14T17:07:59 IST" finished-at="2019-12-14T17:08:00 IST">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:org.amazon.testcase.TC_01@694e1548]" name="closeBrowser" is-config="true" duration-ms="1678" started-at="2019-12-14T18:56:35 IST" finished-at="2019-12-14T18:56:37 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- org.amazon.testcase.TC_01 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
